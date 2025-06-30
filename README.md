@@ -211,6 +211,5 @@ Ce projet est réalisé par :
 ## Auteurs
 
 - **Jadi Ahmed Amine** : Programmeur principal responsable de l'organisation et l'implémentation.
-- **Smali Anass** : Programmeur adjoint.
-- **El Allaoui Othmane** : Programmeur adjoint.
+
 
